@@ -3,7 +3,7 @@ from flask_cors import CORS
 
 # Ensure the current directory is in the sys.path
 #sys.path.append(".")
-sys.path.append("..")
+sys.path.append(".")
 
 from Yoha import create_app
 
