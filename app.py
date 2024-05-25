@@ -5,7 +5,7 @@ from flask_cors import CORS
 #sys.path.append(".")
 sys.path.append(".")
 
-from Yoha import create_app
+#from Yoha import create_app
 
 app = create_app()
 
