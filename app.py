@@ -2,8 +2,8 @@
 import sys
 from flask_cors import CORS
 
-sys.path.append("D:\\Real time Projects")
-
+#sys.path.append("D:\\Real time Projects")
+sys.path.append(".")
 from Yoha import create_app
 
 app = create_app()
