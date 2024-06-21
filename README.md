@@ -18,7 +18,9 @@ This project implements a simple chatbot using Python Flask. The chatbot communi
 - Flask
 - React (for frontend)
 - SMTP (for email notifications)
+## Images
 
+![chat](https://github.com/christalselvin/D.A.Y.S-An-Yoga-Institute_Chatbot/assets/127867279/23eaa2a7-15c1-44e6-952c-0b0b89baf000)
 ## Prerequisites
 
 Make sure you have the following installed:
@@ -33,8 +35,6 @@ Make sure you have the following installed:
    ```HTTPS
    git clone https://github.com/christalselvin/D.A.Y.S-An-Yoga-Institute_Chatbot.git
    cd chatbot
-## Images
 
-![chat](https://github.com/christalselvin/D.A.Y.S-An-Yoga-Institute_Chatbot/assets/127867279/23eaa2a7-15c1-44e6-952c-0b0b89baf000)
 
  
